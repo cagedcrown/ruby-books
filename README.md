@@ -1,8 +1,5 @@
-# Ruby/Ruby on Rails
-everything ruby on rails
-
-# Ruby
+Books / Resources / Tutorials
 
 # Ruby on Rails
-
-# Sinatra
+- [Ruby on Rails Guide](http://guides.rubyonrails.org/)
+- [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/)
