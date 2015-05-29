@@ -11,5 +11,5 @@ Books / Resources / Tutorials
 - [Metaprogramming Ruby 2](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129/ref=dp_ob_title_bk)
 - [The RSpec Book](http://www.amazon.com/gp/product/1934356379/ref=as_li_tf_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356379)
 - [Programming Ruby 1.9 & 2.0](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=dp_ob_title_bk)
-- [r/ruby](http://reddit.com/r/ruby)
+- [Ruby and Rails Subreddit](http://reddit.com/r/ruby+rails)
 - [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=pd_bxgy_14_text_y)
