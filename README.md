@@ -1,6 +1,5 @@
-Books / Resources / Tutorials
+# Ruby/Ruby on Rails Books / Resources / Tutorials
 
-# Ruby/Ruby on Rails
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/)
 - [The Bastards Book of Ruby](http://ruby.bastardsbook.com/resources/)
