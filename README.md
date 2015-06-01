@@ -12,3 +12,6 @@
 - [Programming Ruby 1.9 & 2.0](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=dp_ob_title_bk)
 - [Ruby and Rails Subreddit](http://reddit.com/r/ruby+rails)
 - [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=pd_bxgy_14_text_y)
+
+## Other
+- [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
