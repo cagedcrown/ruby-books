@@ -15,3 +15,4 @@
 
 ## Other
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
+- [Ruby Casts](https://www.rubycasts.io/)
