@@ -1,7 +1,6 @@
 # Ruby/Rails Books / Resources / Tutorials
 This is a collection of all of the books related to Ruby/Rails that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Ruby/Rails! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books).
 
-
 ## Ruby Books
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 - [Awesome Ruby (github repo)](https://github.com/markets/awesome-ruby)
@@ -34,7 +33,8 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
 - [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
 
-## SQL / PostgreSQL
+## Active Record / PostgreSQL
+- [Object-relational Mapping](http://api.rubyonrails.org/files/activerecord/README_rdoc.html)
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 - [Active Record and PostgreSQL](http://edgeguides.rubyonrails.org/active_record_postgresql.html)
 
