@@ -7,10 +7,10 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [The Well-Grounded Rubyist](http://www.amazon.com/gp/product/1933988657/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1933988657)
 - [Eloquent Ruby](http://www.amazon.com/gp/product/0321584104/ref=as_li_tf_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=0321584104)
 - [Metaprogramming Ruby 2](http://www.amazon.com/Metaprogramming-Ruby-Program-Like-Facets/dp/1941222129/ref=dp_ob_title_bk)
-- [The RSpec Book](http://www.amazon.com/gp/product/1934356379/ref=as_li_tf_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356379)
 - [Programming Ruby 1.9 & 2.0](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=dp_ob_title_bk)
 - [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=pd_bxgy_14_text_y)
 - [Practicing Ruby](https://practicingruby.com/)
+- [Ruby Monk](http://rubymonk.com/learning/books)
 
 ## Ruby on Rails Books
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
@@ -36,11 +36,16 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Object-relational Mapping](http://api.rubyonrails.org/files/activerecord/README_rdoc.html)
 - [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
 - [Active Record and PostgreSQL](http://edgeguides.rubyonrails.org/active_record_postgresql.html)
+- [TutsPlus - Active Record](http://code.tutsplus.com/tutorials/active-record-the-rails-database-bridge--net-30489)
 
-### Testing
+### Testing / RSpec
+- [The RSpec Book](http://www.amazon.com/gp/product/1934356379/ref=as_li_tf_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356379)
 - [A Guide to Testing Rails Applications](http://guides.rubyonrails.org/testing.html)
 - [RSpec](http://rspec.info/documentation/)
 - [The RSpec Book](http://zepho.com/rails/books/the-rspec-book.pdf)
+- [Odin Project - Intro to RSpec](http://www.theodinproject.com/ruby-programming/introduction-to-rspec)
+- [Team Treehouse - Intro to RSpec](http://blog.teamtreehouse.com/an-introduction-to-rspec)
+- [How RSpec Works](http://interblah.net/how-rspec-works)
 
 ## Screencasts
 - [RailsCasts](http://railscasts.com/)
@@ -66,4 +71,6 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Ruby Flow](http://www.rubyflow.com/)
 - [Ruby Learning](http://rubylearning.com/blog/)
 
-If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
+---
+
+If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. You can also follow me on [Twitter: @cagedcrown](http://twitter.com/cagedcrown).
