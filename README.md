@@ -3,6 +3,7 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 
 
 ## Ruby Books
+- [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 - [Awesome Ruby (github repo)](https://github.com/markets/awesome-ruby)
 - [The Bastards Book of Ruby](http://ruby.bastardsbook.com/resources/)
 - [The Well-Grounded Rubyist](http://www.amazon.com/gp/product/1933988657/ref=as_li_qf_sp_asin_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1933988657)
@@ -11,10 +12,31 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [The RSpec Book](http://www.amazon.com/gp/product/1934356379/ref=as_li_tf_tl?ie=UTF8&tag=redditrrubyco-20&linkCode=as2&camp=1789&creative=9325&creativeASIN=1934356379)
 - [Programming Ruby 1.9 & 2.0](http://www.amazon.com/Programming-Ruby-1-9-2-0-Programmers/dp/1937785491/ref=dp_ob_title_bk)
 - [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=pd_bxgy_14_text_y)
+- [Practicing Ruby](https://practicingruby.com/)
 
 ## Ruby on Rails Books
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/)
+
+### Models
+- [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
+- [Active Record Migrations](http://guides.rubyonrails.org/active_record_migrations.html)
+- [Active Record Validations](http://guides.rubyonrails.org/active_record_validations.html)
+- [Active Record Callbacks](http://guides.rubyonrails.org/active_record_callbacks.html)
+- [Active Record Association Basics](http://guides.rubyonrails.org/association_basics.html)
+- [Active Record Querying](http://guides.rubyonrails.org/active_record_querying.html)
+
+### Views
+- [Layouts and Rendering](http://guides.rubyonrails.org/layouts_and_rendering.html)
+- [Form Helpers](http://guides.rubyonrails.org/form_helpers.html)
+
+### Controllers
+- [Action Controller Overview](http://guides.rubyonrails.org/action_controller_overview.html)
+- [Rails Routing from the Outside In](http://guides.rubyonrails.org/routing.html)
+
+## SQL / PostgreSQL
+- [Learn SQL The Hard Way](http://sql.learncodethehardway.org/)
+- [Active Record and PostgreSQL](http://edgeguides.rubyonrails.org/active_record_postgresql.html)
 
 ## Screencasts
 - [RailsCasts](http://railscasts.com/)
@@ -37,5 +59,7 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 ## Other Resources
 - [Ruby Style Guide](https://github.com/bbatsov/ruby-style-guide)
 - [Ruby Docs](http://ruby-doc.org/)
+- [Ruby Flow](http://www.rubyflow.com/)
+- [Ruby Learning](http://rubylearning.com/blog/)
 
 If you find anything you think would be a great addition to this repo, feel free to create a pull request and/or issue. Happy coding!
