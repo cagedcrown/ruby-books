@@ -1,4 +1,6 @@
 # Ruby/Rails Books / Resources / Tutorials
+This is a collection of all of the books related to Ruby/Rails that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Ruby/Rails! I am also keeping a similar [JavaScript-Books Repo here.](https://github.com/cagedcrown/javascript-books)
+
 
 ## Ruby Books
 - [Awesome Ruby (github repo)](https://github.com/markets/awesome-ruby)
