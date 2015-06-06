@@ -1,4 +1,4 @@
-This is a collection of all of the books related to Ruby/Rails that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Ruby/Rails! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books).
+This is a collection of all of the books related to Ruby/Rails that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Ruby/Rails! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books) & [Front-End Web Development Repo](https://github.com/cagedcrown/fewd-books).
 
 ## Ruby Books
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
