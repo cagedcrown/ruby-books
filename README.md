@@ -15,6 +15,7 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 ## Ruby on Rails Books
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
 - [Ruby on Rails Tutorial - Michael Hartl](https://www.railstutorial.org/)
+- [Awesome Rails](https://github.com/ekremkaraca/awesome-rails)
 
 ### Models
 - [Active Record Basics](http://guides.rubyonrails.org/active_record_basics.html)
