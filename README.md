@@ -1,6 +1,7 @@
 This is a collection of all of the books related to Ruby/Rails that I have read/interested in reading. Feel free to pass this along to anyone who wants to learn Ruby/Rails! I am also updating a similar [JavaScript Repo](https://github.com/cagedcrown/javascript-books) & [Front-End Web Development Repo](https://github.com/cagedcrown/fewd-books).
 
 ## Ruby Books
+- [Ruby Kickstart](https://github.com/JoshCheek/ruby-kickstart)
 - [Learn Ruby the Hard Way](http://learnrubythehardway.org/book/)
 - [Awesome Ruby (github repo)](https://github.com/markets/awesome-ruby)
 - [The Bastards Book of Ruby](http://ruby.bastardsbook.com/resources/)
@@ -11,6 +12,8 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Practical Object-Oriented Design in Ruby](http://www.amazon.com/Practical-Object-Oriented-Design-Ruby-Addison-Wesley/dp/0321721330/ref=pd_bxgy_14_text_y)
 - [Practicing Ruby](https://practicingruby.com/)
 - [Ruby Monk](http://rubymonk.com/learning/books)
+- [exercism.io](http://exercism.io/)
+- [Ruby Koans](http://rubykoans.com/)
 
 ## Ruby on Rails Books
 - [Ruby on Rails Guide](http://guides.rubyonrails.org/)
