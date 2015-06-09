@@ -74,6 +74,7 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Ruby Docs](http://ruby-doc.org/)
 - [Ruby Flow](http://www.rubyflow.com/)
 - [Ruby Learning](http://rubylearning.com/blog/)
+- [Project Euler](https://projecteuler.net/)
 
 ---
 
