@@ -65,7 +65,7 @@ This is a collection of all of the books related to Ruby/Rails that I have read/
 - [Ruby on Rails subreddit](http://www.reddit.com/r/rails)
 
 ## Online Courses
-- [CodeSchool](http://codeschool.com)
+- [CodeSchool](https://www.codeschool.com/paths/ruby)
 - [Odin Project - Ruby Course](http://www.theodinproject.com/ruby-programming)
 - [Odin Project - Ruby on Rails Course](http://www.theodinproject.com/ruby-on-rails)
 
